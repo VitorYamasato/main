@@ -4,3 +4,4 @@ teste 1
 cowboy
 comida
 sono
+gacha
