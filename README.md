@@ -5,3 +5,4 @@ cowboy
 comida
 sono
 gacha
+apocalipse
